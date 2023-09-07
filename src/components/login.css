@@ -1,0 +1,50 @@
+.bg {
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+        padding: 20px;
+        background-color: #f3f1f1;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(45, 42, 42, 0.2);
+        text-align: center;
+    }
+    .white{
+        margin: 10px 0;
+        text-align: left;
+        
+    }
+    
+    .mb-3 label{
+        display: block;
+        margin-bottom: 5px;
+        color: #666;
+    }
+    
+    .mb-3 input{
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #0c0b0b;
+        border-radius: 3px;
+        color: #0c0b0b;
+    
+    }
+    button{
+        display: block;
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #2c1d1d;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background-color: #0056b3;
+    }
+
+  .white p{
+    color: #2c1d1d;
+    font-size: small
+    ;
+  }

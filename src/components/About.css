@@ -1,0 +1,32 @@
+.about-container{
+    margin: 4rem 6rem;
+    text-align: center;
+}
+
+.about-container h1{
+   padding-bottom: 1rem;
+}
+.about-container p{
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width:850px){
+    .about-container{
+        margin: 4rem 2rem;
+       
+    }
+}
+.about-container img{
+    
+        content: "";
+            background: url("https://www.orpheusincorporated.com/wp-content/uploads/2020/12/AdobeStock_260516386-Converted.png");
+            background-size: cover;
+            height: 100%;
+            width: 100%;
+            
+            top:0 ;
+            left:0 ;
+            z-index:-1 ;
+        
+      
+}
