@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nithya.onlinegroceryshopping.OnlinegroceryshoppingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.183 s - in com.nithya.onlinegroceryshopping.OnlinegroceryshoppingApplicationTests
